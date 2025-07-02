@@ -10,8 +10,17 @@ I’m building a strong foundation in applied mathematics, engineering, and phys
 - 💬 Ask me about math modeling, Python, or Git. 
 
 ## Featured Projects
-- [math-tools](https://github.com/jamesmml/math-tools) - Various computational solvers for linear algebra/differential equations
-- [ml-from-scratch](https://github.com/jamesmml/ml-from-scratch) - Various ML models built from scratch
+- [math-tools](https://github.com/jamesmml/math-tools) - Computational solvers for linear algebra and differential equations
+  - Determinant calculators using cofactor expansion
+  - Euler and Runge-Kutta methods for solving ODEs
+  - 2×2 linear system solver for homogeneous ODEs
+  - Symbolic math with SymPy for flexible equation parsing
+- [ml-from-scratch](https://github.com/jamesmml/ml-from-scratch) - **ML models built from scratch**
+  - Linear & logistic regression  
+  - Binary & multiclass classification  
+  - Fully connected neural networks with forward/backward propagation, softmax, batch training, and more  
+  - No external ML libraries - just NumPy  
+
 
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/james-milgram-10a5a8325)
