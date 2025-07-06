@@ -24,4 +24,3 @@ I’m building a strong foundation in applied mathematics, engineering, and phys
 
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/james-milgram-10a5a8325)
-- [Email](mailto:jameswmilg@gmail.com)
