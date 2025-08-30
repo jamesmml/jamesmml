@@ -1,7 +1,7 @@
 # Hello, my name is James👋
 
 
-I am an Engineering Mechanics major passionate about AI/ML and data science.
+I am an Applied Mathematics, Engineering, and Physics major passionate about AI/ML and data science.
 
 I’m building a strong foundation in applied mathematics, engineering, and physics through my coursework to support this passion. My goal is to leverage my scientific background to develop innovative solutions in AI/ML and data science.
 
