@@ -3,7 +3,7 @@
 
 I am an Applied Mathematics, Engineering, and Physics (AMEP) major — an interdisciplinary program — passionate about ML and data science.
 
-I’m building a strong foundation in applied mathematics, engineering, and physics through my coursework to support this passion. My goal is to leverage my scientific background to develop innovative solutions in ML and data science.
+I’m building a strong foundation through my coursework to support this passion. My goal is to leverage my scientific background to develop innovative solutions in ML and data science.
 
 - 🔭 Currently working on projects involving Python, machine learning, and computational math.
 - 🌱 Learning more about deep learning, model deployment, and OOP.
