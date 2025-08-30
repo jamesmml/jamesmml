@@ -1,7 +1,7 @@
 # Hello, my name is James👋
 
 
-I am an Applied Mathematics, Engineering, and Physics (AMEP) major — an interdisciplinary program — passionate about ML and data science.
+I am an AMEP (Applied Mathematics, Engineering, and Physics) major passionate about ML and data science.
 
 I’m building a strong foundation through my coursework to support this passion. My goal is to leverage my scientific background to develop innovative solutions in ML and data science.
 
