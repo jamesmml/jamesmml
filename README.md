@@ -5,9 +5,9 @@ I am an AMEP (Applied Mathematics, Engineering, and Physics) major passionate ab
 
 I’m building a strong foundation through my coursework to support this passion. My goal is to leverage my scientific background to develop innovative solutions in ML and data science.
 
-- 🔭 Currently working on projects involving Python, machine learning, and computational math.
-- 🌱 Learning more about deep learning, model deployment, and OOP.
-- 💬 Ask me about math modeling, Python, or Git. 
+- 🔭 Currently expanding my `ml-from-scratch` repo to include Convolutional Neural Networks and exploring their applications in my medical imaging research at UW-Madison
+- 🌱 Focused on deepening my understanding of transformer architectures and MLOps principles for robust model deployment
+- 💬 Let's connect if you want to talk about implementing ML algorithms from first principles or translating complex mathematical concepts into Python code
 
 ## Featured Projects
 - [math-tools](https://github.com/jamesmml/math-tools) - Computational solvers for linear algebra and differential equations
