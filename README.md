@@ -7,7 +7,7 @@ I’m building a strong foundation through my coursework to support this passion
 
 - 🔭 Currently expanding my `ml-from-scratch` repo to include Convolutional Neural Networks and exploring their applications in my medical imaging research at UW-Madison
 - 🌱 Focused on deepening my understanding of transformer architectures and MLOps principles for robust model deployment
-- 💬 Let's connect if you want to talk about implementing ML algorithms from first principles or translating complex mathematical concepts into Python code
+- 💬 Let's connect if you want to talk about implementing ML algorithms from first principles or translating mathematical concepts into Python code
 
 ## Featured Projects
 - [math-tools](https://github.com/jamesmml/math-tools) - Computational solvers for linear algebra and differential equations
