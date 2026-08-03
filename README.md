@@ -6,11 +6,11 @@ I am an AMEP (Applied Mathematics, Engineering, and Physics) major interested in
 I am building a strong analytical foundation and aim to develop models for financial markets.
 
 - 🌱 Focused on learning the *what* and the *why* about trading, exchanges, and financial instruments
-- 🔭 Currently learning C and expanding my `markets-and-c` repo to grow my financial market background
+- 🔭 Currently learning C and expanding my `markets-and-exchanges` repo to grow my financial market background
 - 💬 Let's connect if you want to discuss market risk
 
 ## Featured Projects
-- [markets-and-c](https://github.com/jamesmml/markets-and-c) - Exploring financial markets in C
+- [markets-and-exchanges](https://github.com/jamesmml/markets-and-exchanges) - Exploring financial markets
 - [ml-from-scratch](https://github.com/jamesmml/ml-from-scratch) - ML models built from scratch
   - Linear & logistic regression  
   - Binary & multiclass classification  
