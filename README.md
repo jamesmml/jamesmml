@@ -11,6 +11,7 @@ I am building a strong analytical foundation and aim to develop models for finan
 
 ## Featured Projects
 - [markets-and-exchanges](https://github.com/jamesmml/markets-and-exchanges) - Exploring financial markets
+  - L2 order book data parsing and exploration
 - [ml-from-scratch](https://github.com/jamesmml/ml-from-scratch) - ML models built from scratch
   - Linear & logistic regression  
   - Binary & multiclass classification  
