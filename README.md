@@ -7,7 +7,7 @@ I am building a strong analytical foundation and aim to develop models for finan
 
 - 🌱 Focused on learning the *what* and the *why* about trading, exchanges, and financial instruments
 - 🔭 Currently learning C and expanding my `markets-and-exchanges` repo to grow my financial market background
-- 💬 Let's connect if you want to discuss market risk
+- 💬 Let's connect if you want to discuss market microstructure
 
 ## Featured Projects
 - [markets-and-exchanges](https://github.com/jamesmml/markets-and-exchanges) - Exploring financial markets
